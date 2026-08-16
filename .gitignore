@@ -1,0 +1,16 @@
+# Runtime secrets and personal data
+config.json
+chat_history.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local build intermediates
+build/
+*.spec
+
+# Keep packaged executable if added
+dist/*
+!dist/*.exe

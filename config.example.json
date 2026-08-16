@@ -1,0 +1,8 @@
+{
+  "deepseek_api_key": "",
+  "deepseek_base_url": "",
+  "deepseek_model": "deepseek-chat",
+  "affection": 40,
+  "pomodoro_minutes": 25,
+  "auto_talk_level": 2
+}
